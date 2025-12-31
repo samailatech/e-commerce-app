@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/e-commerce-app/static/css/main.7264e092.css",
+    "main.js": "/e-commerce-app/static/js/main.a3992fe6.js",
+    "static/js/453.d7446e4a.chunk.js": "/e-commerce-app/static/js/453.d7446e4a.chunk.js",
+    "static/media/Office Chair.jpg": "/e-commerce-app/static/media/Office Chair.06c598689b1637e030e7.jpg",
+    "static/media/clark-street-mercantile-P3pI6xzovu0-unsplash.jpg": "/e-commerce-app/static/media/clark-street-mercantile-P3pI6xzovu0-unsplash.c59ffaefd73f5408e14e.jpg",
+    "static/media/emiliano-vittoriosi-jovi7gRQjOs-unsplash.jpg": "/e-commerce-app/static/media/emiliano-vittoriosi-jovi7gRQjOs-unsplash.63f5b2ccd2a99aea56d6.jpg",
+    "static/media/Gas Cooker.jpg": "/e-commerce-app/static/media/Gas Cooker.e5f61e279996b3125989.jpg",
+    "static/media/simon-daoudi-2wFoa040m8g-unsplash.jpg": "/e-commerce-app/static/media/simon-daoudi-2wFoa040m8g-unsplash.09f38e8783ecfaefba06.jpg",
+    "static/media/brooke-lark-W1B2LpQOBxA-unsplash.jpg": "/e-commerce-app/static/media/brooke-lark-W1B2LpQOBxA-unsplash.6e821944420d56521136.jpg",
+    "static/media/Microwave.jpg": "/e-commerce-app/static/media/Microwave.8102225955ad60f072cc.jpg",
+    "static/media/hookle-app-6Pa7l0unTAY-unsplash.jpg": "/e-commerce-app/static/media/hookle-app-6Pa7l0unTAY-unsplash.e940e24b1c52fe2d52ba.jpg",
+    "static/media/Laptop Backpack.jpg": "/e-commerce-app/static/media/Laptop Backpack.e1ad4359ae61af7feba3.jpg",
+    "static/media/c-d-x-HwwQZZdQHtc-unsplash.jpg": "/e-commerce-app/static/media/c-d-x-HwwQZZdQHtc-unsplash.9a4a452b67331b8ba3cb.jpg",
+    "static/media/shoper-af5Oi0kOByE-unsplash.jpg": "/e-commerce-app/static/media/shoper-af5Oi0kOByE-unsplash.676640adbce2bd2a47ec.jpg",
+    "static/media/Blender.jpg": "/e-commerce-app/static/media/Blender.442f653bf6bfc4f33d0a.jpg",
+    "static/media/Bluetooth Speaker.jpg": "/e-commerce-app/static/media/Bluetooth Speaker.4e1d271ad3ad668d67f7.jpg",
+    "static/media/Standing Fan.jpg": "/e-commerce-app/static/media/Standing Fan.793316e7a2e8b081d4d3.jpg",
+    "static/media/linda-xu-fUEP0djb1hA-unsplash.jpg": "/e-commerce-app/static/media/linda-xu-fUEP0djb1hA-unsplash.a961bb655f49fc290d6a.jpg",
+    "static/media/bench-accounting-MGaFENpDCsw-unsplash.jpg": "/e-commerce-app/static/media/bench-accounting-MGaFENpDCsw-unsplash.e6231dfcd3f81cc5bc7e.jpg",
+    "static/media/mockup-free-B8fzajTW5YE-unsplash.jpg": "/e-commerce-app/static/media/mockup-free-B8fzajTW5YE-unsplash.7fcff1cadab3631d1d73.jpg",
+    "static/media/Men's sneakers.jpg": "/e-commerce-app/static/media/Men's sneakers.bd6c974f686e6132d6c0.jpg",
+    "static/media/growtika-5hp2g8Aem08-unsplash.jpg": "/e-commerce-app/static/media/growtika-5hp2g8Aem08-unsplash.b2523f345e06bde7fb6f.jpg",
+    "static/media/carlos-muza-hpjSkU2UYSU-unsplash.jpg": "/e-commerce-app/static/media/carlos-muza-hpjSkU2UYSU-unsplash.8d26edcece0b58000ec4.jpg",
+    "static/media/bootstrap-icons.woff?": "/e-commerce-app/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/e-commerce-app/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "index.html": "/e-commerce-app/index.html",
+    "main.7264e092.css.map": "/e-commerce-app/static/css/main.7264e092.css.map",
+    "main.a3992fe6.js.map": "/e-commerce-app/static/js/main.a3992fe6.js.map",
+    "453.d7446e4a.chunk.js.map": "/e-commerce-app/static/js/453.d7446e4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7264e092.css",
+    "static/js/main.a3992fe6.js"
+  ]
+}
