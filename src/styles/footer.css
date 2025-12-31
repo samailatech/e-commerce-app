@@ -1,0 +1,21 @@
+.jumia-footer {
+  background: #323232;
+}
+
+.footer-top {
+  background: #282828;
+}
+
+.footer-link {
+  color: #ddd;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  text-decoration: underline;
+  color: #fff;
+}
+
+.footer-bottom {
+  background: #1f1f1f;
+}

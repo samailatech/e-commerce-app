@@ -1,0 +1,10 @@
+.page-bg {
+  background-image: url("/public/products/work.jpg"); /* or online image */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+
+  /* Important */
+  padding-top: 20px;
+}
